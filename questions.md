@@ -10,7 +10,7 @@ C) adres e-mail i hasło
 
 D) nazwa użytkownika i adres IP
 
-**Poprawna odpowiedź: C**
+**Poprawna odpowiedź: A**
 	 
 ## Pytanie 2
 
@@ -25,6 +25,7 @@ C) Klucz SHA1 jest unikalny
 D) Każdy commit ma swojego rodzica
 
 **Poprawna odpowiedź: B**
+
     
 ## Pytanie 3
 
@@ -39,3 +40,4 @@ C) Git reset z flagą --soft kopiuje dane do sekcji Index.
 D) Polecenie git reset przenosi branch na inny commit.
 
 **Poprawna odpowiedź: A**
+
